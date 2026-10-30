@@ -6,13 +6,12 @@ A responsive front-end web application built with **HTML**, **CSS** and **JavaSc
 ![HTML](https://img.shields.io/badge/HTML-24.3%25-e34c26)
 ![CSS](https://img.shields.io/badge/CSS-18%25-563d7c)
 
-🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
 
 ## 📌 About
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
-## ✨ Features
+## ✨ Features ##
 
 - Interactive user interface powered by vanilla JavaScript
 - Search functionality (remove this line if your project does not have search)
