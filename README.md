@@ -7,7 +7,7 @@ A responsive front-end web application built with **HTML**, **CSS** and **JavaSc
 ![CSS](https://img.shields.io/badge/CSS-18%25-563d7c)
 
 
-## 📌 About
+#### 📌 About
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
