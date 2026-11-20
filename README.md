@@ -73,7 +73,7 @@ You can also deploy it for free on **Vercel** or **Netlify** by importing the re
 ![Home Page](images/screenshot.png)
 ```
 
-##  Contributing
+####  Contributing
 
 Contributions, issues and feature requests are welcome.
 
