@@ -11,7 +11,7 @@ A responsive front-end web application built with **HTML**, **CSS** and **JavaSc
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
-## ✨ Features ##
+#### ✨ Features ##
 
 - Interactive user interface powered by vanilla JavaScript
 - Search functionality (remove this line if your project does not have search)
