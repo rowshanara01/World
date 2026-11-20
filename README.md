@@ -67,13 +67,13 @@ No installation or build step is needed.
 
 You can also deploy it for free on **Vercel** or **Netlify** by importing the repository.
 
-## 📸 Screenshots
+#### 📸 Screenshots
 
 ```md
 ![Home Page](images/screenshot.png)
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues and feature requests are welcome.
 
