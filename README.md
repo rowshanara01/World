@@ -26,7 +26,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - **CSS3** – styling, layout and responsiveness
 - **JavaScript (ES6+)** – interactivity and application logic
 
-## 📁 Project Structure
+#### 📁 Project Structure
 
 ```
 project-name/
