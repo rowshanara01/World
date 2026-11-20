@@ -20,7 +20,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Clean, semantic HTML structure
 - No frameworks or build tools required
 
-## 🛠️ Built With
+#### Built With
 
 - **HTML5** – page structure and content
 - **CSS3** – styling, layout and responsiveness
